@@ -1,0 +1,5 @@
+Va,Vb,Ia,Ib,fault
+230,228,5,5,normal
+0,0,0,0,open
+230,229,15,14,short
+220,210,6,5,degradation
