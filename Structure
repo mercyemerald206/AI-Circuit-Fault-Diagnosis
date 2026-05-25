@@ -1,0 +1,13 @@
+ai-circuit-diagnosis/
+├── data/
+│   └── raw/fault_data.csv
+├── pipelines/
+│   ├── preprocess.py
+│   └── train.py
+├── model/
+│   └── model.pkl
+├── backend/
+│   ├── main.py
+│   └── inference.py
+├── requirements.txt
+└── README.md
